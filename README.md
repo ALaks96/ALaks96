@@ -14,4 +14,4 @@ ML/Docker/MLOps/Python/Azure
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Alaks96&show_icons=true&theme=dark)](https://github.com/Alaks96/Alaks96)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALaks96&hide=jupyter-notebook)](https://github.com/ALaks96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALaks96&hide=Jupyter-Notebook)](https://github.com/ALaks96/github-readme-stats)
