@@ -13,3 +13,5 @@ ML/Docker/MLOps/Python/Azure
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>  </p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Alaks96&show_icons=true&theme=dark)](https://github.com/Alaks96/Alaks96)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALaks96)](https://github.com/ALaks96/github-readme-stats)
