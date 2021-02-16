@@ -1,19 +1,13 @@
 ### Hi there 👋
 
-<!--
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MLOps & Computer Vision
 - 🌱 I’m currently learning Rust & C#
 - 👯 I’m looking to collaborate on Docker optimization (for AI on Edge runtime)
--->
 
-### Skills
+**profile:**
 
 **ML/Docker/MLOps/Python/Azure**
-
-#### Language and Packages
 
 <p>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
