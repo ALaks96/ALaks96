@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MLOps & Computer Vision
-- 🌱 I’m currently learning Rust & C#
-- 👯 I’m looking to collaborate on Docker optimization (for AI on Edge runtime)
+- 🔭 I’m currently working as data scientist for Polar Analytics
 
 **My profile:**
 
